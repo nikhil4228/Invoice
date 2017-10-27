@@ -290,3 +290,42 @@ C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmUpdateCustomer.resources
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.CustomerInvoice.resources
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmCompleteDetailsPurchased.resources
+F:\Projects\Invoice\Invoice\bin\Debug\Invoice.exe.config
+F:\Projects\Invoice\Invoice\bin\Debug\Invoice.exe
+F:\Projects\Invoice\Invoice\bin\Debug\Invoice.pdb
+F:\Projects\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+F:\Projects\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+F:\Projects\Invoice\Invoice\bin\Debug\MetroFramework.dll
+F:\Projects\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+F:\Projects\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.CreateProduct.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.CustomerInvoice.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmChart.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmCompleteDetailsPurchased.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmCustomerReport.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmStocks.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmUpdateCustomer.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+F:\Projects\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Print.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.StockDetails.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Stocks.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.UpdateCategory.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.UpdateProduct.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.UpdateUserDetails.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.UsersDetails.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.exe
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.pdb

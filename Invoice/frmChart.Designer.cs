@@ -66,11 +66,10 @@
             this.flowLayoutPanel1.Controls.Add(this.groupBox2);
             this.flowLayoutPanel1.Controls.Add(this.groupBox3);
             this.flowLayoutPanel1.Controls.Add(this.groupBox4);
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(27, 74);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(16, 74);
             this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1646, 765);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1455, 780);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // groupBox1
@@ -80,7 +79,7 @@
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(810, 382);
+            this.groupBox1.Size = new System.Drawing.Size(717, 382);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             // 
@@ -98,18 +97,18 @@
             series1.Legend = "Legend1";
             series1.Name = "Series1";
             this.chartCustomer.Series.Add(series1);
-            this.chartCustomer.Size = new System.Drawing.Size(802, 359);
+            this.chartCustomer.Size = new System.Drawing.Size(709, 359);
             this.chartCustomer.TabIndex = 0;
             this.chartCustomer.Text = "chart1";
             // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.chartInvoice);
-            this.groupBox2.Location = new System.Drawing.Point(822, 4);
+            this.groupBox2.Location = new System.Drawing.Point(729, 4);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox2.Size = new System.Drawing.Size(810, 382);
+            this.groupBox2.Size = new System.Drawing.Size(717, 382);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             // 
@@ -127,7 +126,7 @@
             series2.Legend = "Legend1";
             series2.Name = "Series1";
             this.chartInvoice.Series.Add(series2);
-            this.chartInvoice.Size = new System.Drawing.Size(802, 359);
+            this.chartInvoice.Size = new System.Drawing.Size(709, 359);
             this.chartInvoice.TabIndex = 0;
             this.chartInvoice.Text = "chart2";
             // 
@@ -138,7 +137,7 @@
             this.groupBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox3.Size = new System.Drawing.Size(810, 382);
+            this.groupBox3.Size = new System.Drawing.Size(717, 382);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             // 
@@ -156,18 +155,18 @@
             series3.Legend = "Legend1";
             series3.Name = "Series1";
             this.chartStock.Series.Add(series3);
-            this.chartStock.Size = new System.Drawing.Size(802, 359);
+            this.chartStock.Size = new System.Drawing.Size(709, 359);
             this.chartStock.TabIndex = 1;
             this.chartStock.Text = "chart3";
             // 
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.chartProduct);
-            this.groupBox4.Location = new System.Drawing.Point(822, 394);
+            this.groupBox4.Location = new System.Drawing.Point(729, 394);
             this.groupBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox4.Size = new System.Drawing.Size(810, 382);
+            this.groupBox4.Size = new System.Drawing.Size(717, 382);
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
             // 
@@ -185,7 +184,7 @@
             series4.Legend = "Legend1";
             series4.Name = "Series1";
             this.chartProduct.Series.Add(series4);
-            this.chartProduct.Size = new System.Drawing.Size(802, 359);
+            this.chartProduct.Size = new System.Drawing.Size(709, 359);
             this.chartProduct.TabIndex = 1;
             this.chartProduct.Text = "chart4";
             // 
@@ -193,7 +192,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1700, 864);
+            this.ClientSize = new System.Drawing.Size(1488, 864);
             this.Controls.Add(this.flowLayoutPanel1);
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
