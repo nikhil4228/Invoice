@@ -1,0 +1,17 @@
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Release\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Release\InvoiceBLL.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Release\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\obj\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\obj\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Release\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Release\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Release\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Release\InvoiceBLL.csprojResolveAssemblyReference.cache

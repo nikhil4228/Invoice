@@ -1,0 +1,65 @@
+F:\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+F:\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+F:\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+F:\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+F:\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+F:\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+F:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+F:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+F:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+F:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+F:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+F:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+E:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,292 @@
+F:\Invoice\Invoice\bin\Debug\Invoice.exe.config
+F:\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+F:\Invoice\Invoice\bin\Debug\Invoice.exe
+F:\Invoice\Invoice\bin\Debug\Invoice.pdb
+F:\Invoice\Invoice\obj\Debug\Invoice.exe
+F:\Invoice\Invoice\obj\Debug\Invoice.pdb
+F:\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+F:\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+F:\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+F:\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+F:\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+F:\Invoice\Invoice\obj\Debug\Invoice.Create_Product.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Create_Product.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.exe.config
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.exe
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.pdb
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.exe
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.pdb
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.dll
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+F:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+F:\Nigu_Production\Invoice\Invoice\bin\Debug\Transitions.dll
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.exe.config
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.exe
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\Invoice.pdb
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.dll
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+E:\Nigu_Production\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Create_Product.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.exe
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+E:\Nigu_Production\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\MetroFramework.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Create_Product.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Pspl\Downloads\Invoice_v1\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Create_Product.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateProduct.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.exe
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe.config
+E:\Nigu_Production\Invoice_v2\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateProduct.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmChart.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmStocks.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Print.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Pspl\Downloads\Invoice_v3\Invoice_v2\Invoice\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\Invoice.exe.config
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\Invoice.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\MetroFramework.Design.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\MetroFramework.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\MetroFramework.Fonts.dll
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Category.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.CreateCategory.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.CreateProduct.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmChart.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmInvoice.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmRegistration.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmSplash.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.frmStocks.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Parent.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Print.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Products.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.Sub_Category.resources
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\Invoice.exe.config
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\Invoice.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\MetroFramework.Design.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\MetroFramework.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\MetroFramework.Fonts.dll
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Category.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.CreateCategory.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.CreateProduct.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmChart.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmInvoice.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmRegistration.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmSplash.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.frmStocks.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Login.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Parent.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Print.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Products.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.Sub_Category.resources
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\Invoice_SRS\Invoice\obj\Debug\Invoice.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\Invoice.exe.config
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\Invoice.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\InvoiceBLL.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\MetroFramework.Design.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\MetroFramework.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\MetroFramework.Fonts.dll
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\bin\Debug\InvoiceBLL.pdb
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Category.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.CreateCategory.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.CreateProduct.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmChart.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmInvoice.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmRegistration.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmSplash.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.frmStocks.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Login.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Parent.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Print.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Products.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.Sub_Category.resources
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.exe
+E:\Nigu_Production\InventoryMGMT\InvoicePortal\Invoice\obj\Debug\Invoice.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Category.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.CreateCategory.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.CreateProduct.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.CreateSubCategory.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmChart.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmRegistration.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmSalesReport.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmSplash.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmStocks.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\MessageBoxExample.MyMessageBox.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Parent.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Print.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Products.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.StockDetails.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Stocks.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.Sub_Category.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.UpdateCategory.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.UpdateProduct.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\Invoice.exe
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\Invoice.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\InvoiceBLL.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\MetroFramework.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\bin\Debug\InvoiceBLL.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.exe
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.pdb
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.UsersDetails.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.UpdateUserDetails.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmCustomerReport.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmUpdateCustomer.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.CustomerInvoice.resources
+C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\Invoice\obj\Debug\Invoice.frmCompleteDetailsPurchased.resources

@@ -1,0 +1,12 @@
+﻿//
+ string result = MyMessageBox.ShowBox("Do you want to exit?", "Alert!");
+            if (result.Equals("1"))
+            {
+                MessageBox.Show("OK Button was Clicked");
+            }
+
+            if (result.Equals("2"))
+            {
+                MessageBox.Show("Cancel Button was Clicked");
+            }
+
