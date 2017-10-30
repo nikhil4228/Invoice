@@ -28,26 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmOrders));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmOrders));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lblInvoiceId = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.lblCustomerPhoneNumber = new System.Windows.Forms.Label();
-            this.lblStatus = new System.Windows.Forms.Label();
-            this.lblInvoiceDate = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.radioBtnCard = new System.Windows.Forms.RadioButton();
-            this.radioBtnCash = new System.Windows.Forms.RadioButton();
-            this.radioBtnAll = new System.Windows.Forms.RadioButton();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.ordersDataGridView = new System.Windows.Forms.DataGridView();
             this.InvoiceNo = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -60,11 +46,26 @@
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewLinkColumn();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.radioBtnAll = new System.Windows.Forms.RadioButton();
+            this.radioBtnCash = new System.Windows.Forms.RadioButton();
+            this.radioBtnCard = new System.Windows.Forms.RadioButton();
+            this.invoiceDateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.txtBxCustomerPhNo = new System.Windows.Forms.TextBox();
+            this.lblInvoiceDate = new System.Windows.Forms.Label();
+            this.lblStatus = new System.Windows.Forms.Label();
+            this.lblCustomerPhoneNumber = new System.Windows.Forms.Label();
+            this.txtBxInvoiceId = new System.Windows.Forms.TextBox();
+            this.lblInvoiceId = new System.Windows.Forms.Label();
+            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.btnSearch = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            this.groupBox1.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ordersDataGridView)).BeginInit();
+            this.panel2.SuspendLayout();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -79,147 +80,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1420, 682);
             this.panel1.TabIndex = 107;
-            // 
-            // dataGridViewImageColumn1
-            // 
-            this.dataGridViewImageColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.dataGridViewImageColumn1.FillWeight = 13.40973F;
-            this.dataGridViewImageColumn1.HeaderText = "";
-            this.dataGridViewImageColumn1.Image = ((System.Drawing.Image)(resources.GetObject("dataGridViewImageColumn1.Image")));
-            this.dataGridViewImageColumn1.Name = "dataGridViewImageColumn1";
-            this.dataGridViewImageColumn1.Width = 5;
-            // 
-            // dataGridViewImageColumn2
-            // 
-            this.dataGridViewImageColumn2.FillWeight = 76.13383F;
-            this.dataGridViewImageColumn2.HeaderText = "";
-            this.dataGridViewImageColumn2.Image = ((System.Drawing.Image)(resources.GetObject("dataGridViewImageColumn2.Image")));
-            this.dataGridViewImageColumn2.Name = "dataGridViewImageColumn2";
-            this.dataGridViewImageColumn2.ToolTipText = "Edit Item";
-            this.dataGridViewImageColumn2.Width = 76;
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.BackColor = System.Drawing.Color.LightSkyBlue;
-            this.groupBox1.Controls.Add(this.radioBtnAll);
-            this.groupBox1.Controls.Add(this.radioBtnCash);
-            this.groupBox1.Controls.Add(this.radioBtnCard);
-            this.groupBox1.Controls.Add(this.dateTimePicker1);
-            this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.lblInvoiceDate);
-            this.groupBox1.Controls.Add(this.lblStatus);
-            this.groupBox1.Controls.Add(this.lblCustomerPhoneNumber);
-            this.groupBox1.Controls.Add(this.textBox1);
-            this.groupBox1.Controls.Add(this.lblInvoiceId);
-            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(3, 3);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1376, 100);
-            this.groupBox1.TabIndex = 126;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Filter By";
-            // 
-            // lblInvoiceId
-            // 
-            this.lblInvoiceId.AutoSize = true;
-            this.lblInvoiceId.Location = new System.Drawing.Point(22, 34);
-            this.lblInvoiceId.Name = "lblInvoiceId";
-            this.lblInvoiceId.Size = new System.Drawing.Size(77, 17);
-            this.lblInvoiceId.TabIndex = 0;
-            this.lblInvoiceId.Text = "Invoice Id";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(107, 34);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 1;
-            // 
-            // lblCustomerPhoneNumber
-            // 
-            this.lblCustomerPhoneNumber.AutoSize = true;
-            this.lblCustomerPhoneNumber.Location = new System.Drawing.Point(220, 34);
-            this.lblCustomerPhoneNumber.Name = "lblCustomerPhoneNumber";
-            this.lblCustomerPhoneNumber.Size = new System.Drawing.Size(188, 17);
-            this.lblCustomerPhoneNumber.TabIndex = 2;
-            this.lblCustomerPhoneNumber.Text = "Customer Phone Number";
-            // 
-            // lblStatus
-            // 
-            this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(871, 37);
-            this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(54, 17);
-            this.lblStatus.TabIndex = 3;
-            this.lblStatus.Text = "Status";
-            // 
-            // lblInvoiceDate
-            // 
-            this.lblInvoiceDate.AutoSize = true;
-            this.lblInvoiceDate.Location = new System.Drawing.Point(538, 37);
-            this.lblInvoiceDate.Name = "lblInvoiceDate";
-            this.lblInvoiceDate.Size = new System.Drawing.Size(98, 17);
-            this.lblInvoiceDate.TabIndex = 4;
-            this.lblInvoiceDate.Text = "Invoice Date";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(414, 34);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 5;
-            // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.CustomFormat = "MM/dd/yyyy";
-            this.dateTimePicker1.Font = new System.Drawing.Font("Palatino Linotype", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(645, 28);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(187, 30);
-            this.dateTimePicker1.TabIndex = 6;
-            // 
-            // radioBtnCard
-            // 
-            this.radioBtnCard.AutoSize = true;
-            this.radioBtnCard.Location = new System.Drawing.Point(936, 35);
-            this.radioBtnCard.Name = "radioBtnCard";
-            this.radioBtnCard.Size = new System.Drawing.Size(63, 21);
-            this.radioBtnCard.TabIndex = 7;
-            this.radioBtnCard.TabStop = true;
-            this.radioBtnCard.Text = "Card";
-            this.radioBtnCard.UseVisualStyleBackColor = true;
-            // 
-            // radioBtnCash
-            // 
-            this.radioBtnCash.AutoSize = true;
-            this.radioBtnCash.Location = new System.Drawing.Point(1005, 35);
-            this.radioBtnCash.Name = "radioBtnCash";
-            this.radioBtnCash.Size = new System.Drawing.Size(65, 21);
-            this.radioBtnCash.TabIndex = 8;
-            this.radioBtnCash.TabStop = true;
-            this.radioBtnCash.Text = "Cash";
-            this.radioBtnCash.UseVisualStyleBackColor = true;
-            // 
-            // radioBtnAll
-            // 
-            this.radioBtnAll.AutoSize = true;
-            this.radioBtnAll.Location = new System.Drawing.Point(1076, 35);
-            this.radioBtnAll.Name = "radioBtnAll";
-            this.radioBtnAll.Size = new System.Drawing.Size(47, 21);
-            this.radioBtnAll.TabIndex = 9;
-            this.radioBtnAll.TabStop = true;
-            this.radioBtnAll.Text = "All";
-            this.radioBtnAll.UseVisualStyleBackColor = true;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.groupBox1);
-            this.panel2.Location = new System.Drawing.Point(18, 13);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1379, 101);
-            this.panel2.TabIndex = 127;
             // 
             // panel3
             // 
@@ -356,6 +216,167 @@
             this.Column7.Text = "Details";
             this.Column7.UseColumnTextForLinkValue = true;
             // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.groupBox1);
+            this.panel2.Location = new System.Drawing.Point(18, 13);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1379, 101);
+            this.panel2.TabIndex = 127;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.groupBox1.Controls.Add(this.btnSearch);
+            this.groupBox1.Controls.Add(this.radioBtnAll);
+            this.groupBox1.Controls.Add(this.radioBtnCash);
+            this.groupBox1.Controls.Add(this.radioBtnCard);
+            this.groupBox1.Controls.Add(this.invoiceDateTimePicker);
+            this.groupBox1.Controls.Add(this.txtBxCustomerPhNo);
+            this.groupBox1.Controls.Add(this.lblInvoiceDate);
+            this.groupBox1.Controls.Add(this.lblStatus);
+            this.groupBox1.Controls.Add(this.lblCustomerPhoneNumber);
+            this.groupBox1.Controls.Add(this.txtBxInvoiceId);
+            this.groupBox1.Controls.Add(this.lblInvoiceId);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Location = new System.Drawing.Point(3, 3);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(1376, 100);
+            this.groupBox1.TabIndex = 126;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Filter By";
+            // 
+            // radioBtnAll
+            // 
+            this.radioBtnAll.AutoSize = true;
+            this.radioBtnAll.Location = new System.Drawing.Point(1076, 35);
+            this.radioBtnAll.Name = "radioBtnAll";
+            this.radioBtnAll.Size = new System.Drawing.Size(47, 21);
+            this.radioBtnAll.TabIndex = 9;
+            this.radioBtnAll.TabStop = true;
+            this.radioBtnAll.Text = "All";
+            this.radioBtnAll.UseVisualStyleBackColor = true;
+            // 
+            // radioBtnCash
+            // 
+            this.radioBtnCash.AutoSize = true;
+            this.radioBtnCash.Location = new System.Drawing.Point(1005, 35);
+            this.radioBtnCash.Name = "radioBtnCash";
+            this.radioBtnCash.Size = new System.Drawing.Size(65, 21);
+            this.radioBtnCash.TabIndex = 8;
+            this.radioBtnCash.TabStop = true;
+            this.radioBtnCash.Text = "Cash";
+            this.radioBtnCash.UseVisualStyleBackColor = true;
+            // 
+            // radioBtnCard
+            // 
+            this.radioBtnCard.AutoSize = true;
+            this.radioBtnCard.Location = new System.Drawing.Point(936, 35);
+            this.radioBtnCard.Name = "radioBtnCard";
+            this.radioBtnCard.Size = new System.Drawing.Size(63, 21);
+            this.radioBtnCard.TabIndex = 7;
+            this.radioBtnCard.TabStop = true;
+            this.radioBtnCard.Text = "Card";
+            this.radioBtnCard.UseVisualStyleBackColor = true;
+            // 
+            // invoiceDateTimePicker
+            // 
+            this.invoiceDateTimePicker.CustomFormat = "MM/dd/yyyy";
+            this.invoiceDateTimePicker.Font = new System.Drawing.Font("Palatino Linotype", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.invoiceDateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.invoiceDateTimePicker.Location = new System.Drawing.Point(645, 28);
+            this.invoiceDateTimePicker.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.invoiceDateTimePicker.Name = "invoiceDateTimePicker";
+            this.invoiceDateTimePicker.Size = new System.Drawing.Size(187, 30);
+            this.invoiceDateTimePicker.TabIndex = 6;
+            // 
+            // txtBxCustomerPhNo
+            // 
+            this.txtBxCustomerPhNo.Location = new System.Drawing.Point(414, 34);
+            this.txtBxCustomerPhNo.Name = "txtBxCustomerPhNo";
+            this.txtBxCustomerPhNo.Size = new System.Drawing.Size(100, 22);
+            this.txtBxCustomerPhNo.TabIndex = 5;
+            // 
+            // lblInvoiceDate
+            // 
+            this.lblInvoiceDate.AutoSize = true;
+            this.lblInvoiceDate.Location = new System.Drawing.Point(538, 37);
+            this.lblInvoiceDate.Name = "lblInvoiceDate";
+            this.lblInvoiceDate.Size = new System.Drawing.Size(98, 17);
+            this.lblInvoiceDate.TabIndex = 4;
+            this.lblInvoiceDate.Text = "Invoice Date";
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.AutoSize = true;
+            this.lblStatus.Location = new System.Drawing.Point(871, 37);
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(54, 17);
+            this.lblStatus.TabIndex = 3;
+            this.lblStatus.Text = "Status";
+            // 
+            // lblCustomerPhoneNumber
+            // 
+            this.lblCustomerPhoneNumber.AutoSize = true;
+            this.lblCustomerPhoneNumber.Location = new System.Drawing.Point(220, 34);
+            this.lblCustomerPhoneNumber.Name = "lblCustomerPhoneNumber";
+            this.lblCustomerPhoneNumber.Size = new System.Drawing.Size(188, 17);
+            this.lblCustomerPhoneNumber.TabIndex = 2;
+            this.lblCustomerPhoneNumber.Text = "Customer Phone Number";
+            // 
+            // txtBxInvoiceId
+            // 
+            this.txtBxInvoiceId.Location = new System.Drawing.Point(107, 34);
+            this.txtBxInvoiceId.Name = "txtBxInvoiceId";
+            this.txtBxInvoiceId.Size = new System.Drawing.Size(100, 22);
+            this.txtBxInvoiceId.TabIndex = 1;
+            // 
+            // lblInvoiceId
+            // 
+            this.lblInvoiceId.AutoSize = true;
+            this.lblInvoiceId.Location = new System.Drawing.Point(22, 34);
+            this.lblInvoiceId.Name = "lblInvoiceId";
+            this.lblInvoiceId.Size = new System.Drawing.Size(77, 17);
+            this.lblInvoiceId.TabIndex = 0;
+            this.lblInvoiceId.Text = "Invoice Id";
+            // 
+            // dataGridViewImageColumn1
+            // 
+            this.dataGridViewImageColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.dataGridViewImageColumn1.FillWeight = 13.40973F;
+            this.dataGridViewImageColumn1.HeaderText = "";
+            this.dataGridViewImageColumn1.Image = ((System.Drawing.Image)(resources.GetObject("dataGridViewImageColumn1.Image")));
+            this.dataGridViewImageColumn1.Name = "dataGridViewImageColumn1";
+            // 
+            // dataGridViewImageColumn2
+            // 
+            this.dataGridViewImageColumn2.FillWeight = 76.13383F;
+            this.dataGridViewImageColumn2.HeaderText = "";
+            this.dataGridViewImageColumn2.Image = ((System.Drawing.Image)(resources.GetObject("dataGridViewImageColumn2.Image")));
+            this.dataGridViewImageColumn2.Name = "dataGridViewImageColumn2";
+            this.dataGridViewImageColumn2.ToolTipText = "Edit Item";
+            this.dataGridViewImageColumn2.Width = 76;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.BackColor = System.Drawing.Color.Orange;
+            this.btnSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnSearch.FlatAppearance.BorderSize = 0;
+            this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSearch.Font = new System.Drawing.Font("Palatino Linotype", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSearch.ForeColor = System.Drawing.Color.Black;
+            this.btnSearch.Image = global::Invoice.Properties.Resources.search_icon1;
+            this.btnSearch.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.btnSearch.Location = new System.Drawing.Point(1186, 31);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(91, 31);
+            this.btnSearch.TabIndex = 127;
+            this.btnSearch.Text = "Search";
+            this.btnSearch.TextAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.btnSearch.UseVisualStyleBackColor = false;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
             // frmOrders
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -367,11 +388,11 @@
             this.Text = "Orders";
             this.Load += new System.EventHandler(this.frmOrders_Load);
             this.panel1.ResumeLayout(false);
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
-            this.panel2.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.ordersDataGridView)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -383,13 +404,13 @@
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn2;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtBxCustomerPhNo;
         private System.Windows.Forms.Label lblInvoiceDate;
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.Label lblCustomerPhoneNumber;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtBxInvoiceId;
         private System.Windows.Forms.Label lblInvoiceId;
-        internal System.Windows.Forms.DateTimePicker dateTimePicker1;
+        internal System.Windows.Forms.DateTimePicker invoiceDateTimePicker;
         private System.Windows.Forms.RadioButton radioBtnAll;
         private System.Windows.Forms.RadioButton radioBtnCash;
         private System.Windows.Forms.RadioButton radioBtnCard;
@@ -406,5 +427,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.DataGridViewLinkColumn Column7;
+        internal System.Windows.Forms.Button btnSearch;
     }
 }
