@@ -329,3 +329,7 @@ F:\Projects\Invoice\Invoice\obj\Debug\Invoice.UsersDetails.resources
 F:\Projects\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
 F:\Projects\Invoice\Invoice\obj\Debug\Invoice.exe
 F:\Projects\Invoice\Invoice\obj\Debug\Invoice.pdb
+F:\Projects\Invoice\Invoice\bin\Debug\InvoiceBLL.dll.config
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmOrderDetails.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.frmOrders.resources
+F:\Projects\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache

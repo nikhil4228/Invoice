@@ -80,18 +80,7 @@ namespace Invoice
 
         private void registrationToolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            try
-            {
-                using (frmRegistration frmRgst = new frmRegistration())
-                {
-                    frmRgst.MdiParent = this.MdiParent;
-                    frmRgst.ShowDialog();
-                }
-            }
-            catch (Exception ex)
-            {
-                _errorLogs.LogErrors("Parent", "registrationToolStripMenuItem2_Click", ex.Message);
-            }
+            
         }
 
         private void Parent_FormClosed(object sender, FormClosedEventArgs e)
@@ -220,6 +209,74 @@ namespace Invoice
         private void usersToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void loginDetailsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (frmSalesReport salesReport = new frmSalesReport())
+                {
+                    salesReport.MdiParent = this.MdiParent;
+                    salesReport.ShowDialog();
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        private void loginDetailsToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (UsersDetails userDetails = new UsersDetails())
+                {
+                    userDetails.MdiParent = this.MdiParent;
+                    userDetails.ShowDialog();
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        private void registrationToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (frmRegistration frmRgst = new frmRegistration())
+                {
+                    frmRgst.MdiParent = this.MdiParent;
+                    frmRgst.ShowDialog();
+                }
+            }
+            catch (Exception ex)
+            {
+                _errorLogs.LogErrors("Parent", "registrationToolStripMenuItem2_Click", ex.Message);
+            }
+        }
+
+        private void ordersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //code to view orders screen 
+            try
+            {
+                using (frmOrders ordersForm = new frmOrders())
+                {
+                    ordersForm.MdiParent = this.MdiParent;
+                    ordersForm.ShowDialog();
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }

@@ -46,6 +46,7 @@
     <Compile Include="InvoiceRepo.cs" />
     <Compile Include="LoginRepo.cs" />
     <Compile Include="Model\InvoiceViewModel.cs" />
+    <Compile Include="OrdersRepo.cs" />
     <Compile Include="ProductRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StockRepo.cs" />

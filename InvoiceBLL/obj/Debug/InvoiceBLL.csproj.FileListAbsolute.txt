@@ -63,3 +63,10 @@ C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.dll
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.pdb
 C:\Users\nikhi\Desktop\Invoice BackUp\Invoice BackUp\InvoicePortal\InvoicePortal\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+F:\Projects\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll.config
+F:\Projects\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.dll
+F:\Projects\Invoice\InvoiceBLL\bin\Debug\InvoiceBLL.pdb
+F:\Projects\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csprojResolveAssemblyReference.cache
+F:\Projects\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.csproj.CoreCompileInputs.cache
+F:\Projects\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.dll
+F:\Projects\Invoice\InvoiceBLL\obj\Debug\InvoiceBLL.pdb

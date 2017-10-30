@@ -36,8 +36,8 @@
             this.subCategoryToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.productToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.OrderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.registrationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.loginDetailsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.stocksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salesReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.usersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.registrationToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.loginDetailsToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -59,6 +59,7 @@
             this.lblTimer = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.ordersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.menuStrip2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -125,30 +126,32 @@
             // OrderToolStripMenuItem
             // 
             this.OrderToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.registrationToolStripMenuItem,
-            this.loginDetailsToolStripMenuItem});
+            this.stocksToolStripMenuItem,
+            this.salesReportToolStripMenuItem,
+            this.ordersToolStripMenuItem});
             this.OrderToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
             this.OrderToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.OrderToolStripMenuItem.Name = "OrderToolStripMenuItem";
             this.OrderToolStripMenuItem.Size = new System.Drawing.Size(76, 27);
             this.OrderToolStripMenuItem.Text = "Orders";
             // 
-            // registrationToolStripMenuItem
+            // stocksToolStripMenuItem
             // 
-            this.registrationToolStripMenuItem.Image = global::Invoice.Properties.Resources.stocks;
-            this.registrationToolStripMenuItem.Name = "registrationToolStripMenuItem";
-            this.registrationToolStripMenuItem.ShortcutKeyDisplayString = "Alt+S";
-            this.registrationToolStripMenuItem.Size = new System.Drawing.Size(221, 28);
-            this.registrationToolStripMenuItem.Text = "Stocks";
-            this.registrationToolStripMenuItem.Click += new System.EventHandler(this.registrationToolStripMenuItem_Click);
+            this.stocksToolStripMenuItem.Image = global::Invoice.Properties.Resources.stocks;
+            this.stocksToolStripMenuItem.Name = "stocksToolStripMenuItem";
+            this.stocksToolStripMenuItem.ShortcutKeyDisplayString = "Alt+S";
+            this.stocksToolStripMenuItem.Size = new System.Drawing.Size(221, 28);
+            this.stocksToolStripMenuItem.Text = "Stocks";
+            this.stocksToolStripMenuItem.Click += new System.EventHandler(this.registrationToolStripMenuItem_Click);
             // 
-            // loginDetailsToolStripMenuItem
+            // salesReportToolStripMenuItem
             // 
-            this.loginDetailsToolStripMenuItem.Image = global::Invoice.Properties.Resources.stock;
-            this.loginDetailsToolStripMenuItem.Name = "loginDetailsToolStripMenuItem";
-            this.loginDetailsToolStripMenuItem.ShortcutKeyDisplayString = "Alt+Ctrl+s";
-            this.loginDetailsToolStripMenuItem.Size = new System.Drawing.Size(221, 28);
-            this.loginDetailsToolStripMenuItem.Text = "Sales";
+            this.salesReportToolStripMenuItem.Image = global::Invoice.Properties.Resources.stock;
+            this.salesReportToolStripMenuItem.Name = "salesReportToolStripMenuItem";
+            this.salesReportToolStripMenuItem.ShortcutKeyDisplayString = "Alt+Ctrl+s";
+            this.salesReportToolStripMenuItem.Size = new System.Drawing.Size(221, 28);
+            this.salesReportToolStripMenuItem.Text = "Sales";
+            this.salesReportToolStripMenuItem.Click += new System.EventHandler(this.loginDetailsToolStripMenuItem_Click);
             // 
             // usersToolStripMenuItem
             // 
@@ -168,6 +171,7 @@
             this.registrationToolStripMenuItem1.Name = "registrationToolStripMenuItem1";
             this.registrationToolStripMenuItem1.Size = new System.Drawing.Size(191, 28);
             this.registrationToolStripMenuItem1.Text = "Registration";
+            this.registrationToolStripMenuItem1.Click += new System.EventHandler(this.registrationToolStripMenuItem1_Click);
             // 
             // loginDetailsToolStripMenuItem1
             // 
@@ -175,6 +179,7 @@
             this.loginDetailsToolStripMenuItem1.Name = "loginDetailsToolStripMenuItem1";
             this.loginDetailsToolStripMenuItem1.Size = new System.Drawing.Size(191, 28);
             this.loginDetailsToolStripMenuItem1.Text = "Login Details";
+            this.loginDetailsToolStripMenuItem1.Click += new System.EventHandler(this.loginDetailsToolStripMenuItem1_Click);
             // 
             // toolsToolStripMenuItem
             // 
@@ -359,6 +364,14 @@
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
+            // ordersToolStripMenuItem
+            // 
+            this.ordersToolStripMenuItem.Image = global::Invoice.Properties.Resources.report_icon;
+            this.ordersToolStripMenuItem.Name = "ordersToolStripMenuItem";
+            this.ordersToolStripMenuItem.Size = new System.Drawing.Size(221, 28);
+            this.ordersToolStripMenuItem.Text = "Orders";
+            this.ordersToolStripMenuItem.Click += new System.EventHandler(this.ordersToolStripMenuItem_Click);
+            // 
             // Parent
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -403,8 +416,8 @@
         private System.Windows.Forms.ToolStripMenuItem categoryToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem subCategoryToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem productToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem registrationToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem loginDetailsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem stocksToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salesReportToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem registrationToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem loginDetailsToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem notepadToolStripMenuItem;
@@ -426,5 +439,6 @@
         public System.Windows.Forms.ToolStripMenuItem reportsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem customerReportToolStripMenuItem;
         public System.Windows.Forms.ToolStripMenuItem chartMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ordersToolStripMenuItem;
     }
 }
