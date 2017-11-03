@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmOrders));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -48,9 +48,6 @@
             this.Column7 = new System.Windows.Forms.DataGridViewLinkColumn();
             this.panel2 = new System.Windows.Forms.Panel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioBtnAll = new System.Windows.Forms.RadioButton();
-            this.radioBtnCash = new System.Windows.Forms.RadioButton();
-            this.radioBtnCard = new System.Windows.Forms.RadioButton();
             this.invoiceDateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.txtBxCustomerPhNo = new System.Windows.Forms.TextBox();
             this.lblInvoiceDate = new System.Windows.Forms.Label();
@@ -61,6 +58,9 @@
             this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
             this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
             this.btnSearch = new System.Windows.Forms.Button();
+            this.cmbPaymentMode = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.cmbUser = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ordersDataGridView)).BeginInit();
@@ -92,19 +92,19 @@
             // ordersDataGridView
             // 
             this.ordersDataGridView.AllowUserToAddRows = false;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Palatino Linotype", 9F, System.Drawing.FontStyle.Bold);
-            this.ordersDataGridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Palatino Linotype", 9F, System.Drawing.FontStyle.Bold);
+            this.ordersDataGridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
             this.ordersDataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.ordersDataGridView.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ordersDataGridView.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.LightSkyBlue;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.ordersDataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.LightSkyBlue;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.ordersDataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.ordersDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.ordersDataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.InvoiceNo,
@@ -117,27 +117,27 @@
             this.Column9,
             this.Column6,
             this.Column7});
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.ordersDataGridView.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.ordersDataGridView.DefaultCellStyle = dataGridViewCellStyle7;
             this.ordersDataGridView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ordersDataGridView.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
             this.ordersDataGridView.Location = new System.Drawing.Point(0, 0);
             this.ordersDataGridView.Margin = new System.Windows.Forms.Padding(4);
             this.ordersDataGridView.Name = "ordersDataGridView";
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.ordersDataGridView.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.ordersDataGridView.RowHeadersDefaultCellStyle = dataGridViewCellStyle8;
             this.ordersDataGridView.RowHeadersVisible = false;
             this.ordersDataGridView.Size = new System.Drawing.Size(1379, 529);
             this.ordersDataGridView.TabIndex = 127;
@@ -227,10 +227,10 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.groupBox1.Controls.Add(this.cmbUser);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.cmbPaymentMode);
             this.groupBox1.Controls.Add(this.btnSearch);
-            this.groupBox1.Controls.Add(this.radioBtnAll);
-            this.groupBox1.Controls.Add(this.radioBtnCash);
-            this.groupBox1.Controls.Add(this.radioBtnCard);
             this.groupBox1.Controls.Add(this.invoiceDateTimePicker);
             this.groupBox1.Controls.Add(this.txtBxCustomerPhNo);
             this.groupBox1.Controls.Add(this.lblInvoiceDate);
@@ -239,52 +239,19 @@
             this.groupBox1.Controls.Add(this.txtBxInvoiceId);
             this.groupBox1.Controls.Add(this.lblInvoiceId);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(3, 3);
+            this.groupBox1.Location = new System.Drawing.Point(3, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1376, 100);
+            this.groupBox1.Size = new System.Drawing.Size(1376, 109);
             this.groupBox1.TabIndex = 126;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Filter By";
-            // 
-            // radioBtnAll
-            // 
-            this.radioBtnAll.AutoSize = true;
-            this.radioBtnAll.Location = new System.Drawing.Point(1076, 35);
-            this.radioBtnAll.Name = "radioBtnAll";
-            this.radioBtnAll.Size = new System.Drawing.Size(47, 21);
-            this.radioBtnAll.TabIndex = 9;
-            this.radioBtnAll.TabStop = true;
-            this.radioBtnAll.Text = "All";
-            this.radioBtnAll.UseVisualStyleBackColor = true;
-            // 
-            // radioBtnCash
-            // 
-            this.radioBtnCash.AutoSize = true;
-            this.radioBtnCash.Location = new System.Drawing.Point(1005, 35);
-            this.radioBtnCash.Name = "radioBtnCash";
-            this.radioBtnCash.Size = new System.Drawing.Size(65, 21);
-            this.radioBtnCash.TabIndex = 8;
-            this.radioBtnCash.TabStop = true;
-            this.radioBtnCash.Text = "Cash";
-            this.radioBtnCash.UseVisualStyleBackColor = true;
-            // 
-            // radioBtnCard
-            // 
-            this.radioBtnCard.AutoSize = true;
-            this.radioBtnCard.Location = new System.Drawing.Point(936, 35);
-            this.radioBtnCard.Name = "radioBtnCard";
-            this.radioBtnCard.Size = new System.Drawing.Size(63, 21);
-            this.radioBtnCard.TabIndex = 7;
-            this.radioBtnCard.TabStop = true;
-            this.radioBtnCard.Text = "Card";
-            this.radioBtnCard.UseVisualStyleBackColor = true;
             // 
             // invoiceDateTimePicker
             // 
             this.invoiceDateTimePicker.CustomFormat = "MM/dd/yyyy";
             this.invoiceDateTimePicker.Font = new System.Drawing.Font("Palatino Linotype", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.invoiceDateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.invoiceDateTimePicker.Location = new System.Drawing.Point(645, 28);
+            this.invoiceDateTimePicker.Location = new System.Drawing.Point(144, 58);
             this.invoiceDateTimePicker.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.invoiceDateTimePicker.Name = "invoiceDateTimePicker";
             this.invoiceDateTimePicker.Size = new System.Drawing.Size(187, 30);
@@ -292,53 +259,59 @@
             // 
             // txtBxCustomerPhNo
             // 
-            this.txtBxCustomerPhNo.Location = new System.Drawing.Point(414, 34);
+            this.txtBxCustomerPhNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxCustomerPhNo.Location = new System.Drawing.Point(533, 26);
             this.txtBxCustomerPhNo.Name = "txtBxCustomerPhNo";
-            this.txtBxCustomerPhNo.Size = new System.Drawing.Size(100, 22);
+            this.txtBxCustomerPhNo.Size = new System.Drawing.Size(187, 26);
             this.txtBxCustomerPhNo.TabIndex = 5;
             // 
             // lblInvoiceDate
             // 
             this.lblInvoiceDate.AutoSize = true;
-            this.lblInvoiceDate.Location = new System.Drawing.Point(538, 37);
+            this.lblInvoiceDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInvoiceDate.Location = new System.Drawing.Point(22, 63);
             this.lblInvoiceDate.Name = "lblInvoiceDate";
-            this.lblInvoiceDate.Size = new System.Drawing.Size(98, 17);
+            this.lblInvoiceDate.Size = new System.Drawing.Size(111, 18);
             this.lblInvoiceDate.TabIndex = 4;
-            this.lblInvoiceDate.Text = "Invoice Date";
+            this.lblInvoiceDate.Text = "Invoice Date :";
             // 
             // lblStatus
             // 
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(871, 37);
+            this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblStatus.Location = new System.Drawing.Point(378, 65);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(54, 17);
+            this.lblStatus.Size = new System.Drawing.Size(150, 18);
             this.lblStatus.TabIndex = 3;
-            this.lblStatus.Text = "Status";
+            this.lblStatus.Text = "Mode of Payment :";
             // 
             // lblCustomerPhoneNumber
             // 
             this.lblCustomerPhoneNumber.AutoSize = true;
-            this.lblCustomerPhoneNumber.Location = new System.Drawing.Point(220, 34);
+            this.lblCustomerPhoneNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCustomerPhoneNumber.Location = new System.Drawing.Point(378, 29);
             this.lblCustomerPhoneNumber.Name = "lblCustomerPhoneNumber";
-            this.lblCustomerPhoneNumber.Size = new System.Drawing.Size(188, 17);
+            this.lblCustomerPhoneNumber.Size = new System.Drawing.Size(147, 18);
             this.lblCustomerPhoneNumber.TabIndex = 2;
-            this.lblCustomerPhoneNumber.Text = "Customer Phone Number";
+            this.lblCustomerPhoneNumber.Text = "Customer Mobile :";
             // 
             // txtBxInvoiceId
             // 
-            this.txtBxInvoiceId.Location = new System.Drawing.Point(107, 34);
+            this.txtBxInvoiceId.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxInvoiceId.Location = new System.Drawing.Point(144, 26);
             this.txtBxInvoiceId.Name = "txtBxInvoiceId";
-            this.txtBxInvoiceId.Size = new System.Drawing.Size(100, 22);
+            this.txtBxInvoiceId.Size = new System.Drawing.Size(187, 26);
             this.txtBxInvoiceId.TabIndex = 1;
             // 
             // lblInvoiceId
             // 
             this.lblInvoiceId.AutoSize = true;
-            this.lblInvoiceId.Location = new System.Drawing.Point(22, 34);
+            this.lblInvoiceId.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInvoiceId.Location = new System.Drawing.Point(22, 33);
             this.lblInvoiceId.Name = "lblInvoiceId";
-            this.lblInvoiceId.Size = new System.Drawing.Size(77, 17);
+            this.lblInvoiceId.Size = new System.Drawing.Size(103, 18);
             this.lblInvoiceId.TabIndex = 0;
-            this.lblInvoiceId.Text = "Invoice Id";
+            this.lblInvoiceId.Text = "Invoice No : ";
             // 
             // dataGridViewImageColumn1
             // 
@@ -367,7 +340,7 @@
             this.btnSearch.ForeColor = System.Drawing.Color.Black;
             this.btnSearch.Image = global::Invoice.Properties.Resources.search_icon1;
             this.btnSearch.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
-            this.btnSearch.Location = new System.Drawing.Point(1186, 31);
+            this.btnSearch.Location = new System.Drawing.Point(1002, 68);
             this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(91, 31);
@@ -376,6 +349,38 @@
             this.btnSearch.TextAlign = System.Drawing.ContentAlignment.BottomRight;
             this.btnSearch.UseVisualStyleBackColor = false;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // cmbPaymentMode
+            // 
+            this.cmbPaymentMode.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbPaymentMode.FormattingEnabled = true;
+            this.cmbPaymentMode.Items.AddRange(new object[] {
+            "All",
+            "Card",
+            "Cash"});
+            this.cmbPaymentMode.Location = new System.Drawing.Point(533, 60);
+            this.cmbPaymentMode.Name = "cmbPaymentMode";
+            this.cmbPaymentMode.Size = new System.Drawing.Size(187, 28);
+            this.cmbPaymentMode.TabIndex = 128;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(760, 31);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(137, 18);
+            this.label1.TabIndex = 129;
+            this.label1.Text = "Sales Executive :";
+            // 
+            // cmbUser
+            // 
+            this.cmbUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbUser.FormattingEnabled = true;
+            this.cmbUser.Location = new System.Drawing.Point(906, 26);
+            this.cmbUser.Name = "cmbUser";
+            this.cmbUser.Size = new System.Drawing.Size(187, 28);
+            this.cmbUser.TabIndex = 130;
             // 
             // frmOrders
             // 
@@ -411,9 +416,6 @@
         private System.Windows.Forms.TextBox txtBxInvoiceId;
         private System.Windows.Forms.Label lblInvoiceId;
         internal System.Windows.Forms.DateTimePicker invoiceDateTimePicker;
-        private System.Windows.Forms.RadioButton radioBtnAll;
-        private System.Windows.Forms.RadioButton radioBtnCash;
-        private System.Windows.Forms.RadioButton radioBtnCard;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.DataGridView ordersDataGridView;
@@ -428,5 +430,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.DataGridViewLinkColumn Column7;
         internal System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cmbPaymentMode;
+        private System.Windows.Forms.ComboBox cmbUser;
     }
 }

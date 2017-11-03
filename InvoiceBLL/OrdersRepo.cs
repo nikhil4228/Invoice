@@ -32,6 +32,34 @@ namespace InvoiceBLL
             }
             return dtOrders;
         }
+
+        public DataTable getAllOrdersByFilters(int invoiceNo,int userId,string paymentMode,string invoiceDate,long customerMobileNo)
+        {
+            DataTable dtOrders = new DataTable();
+            try
+            {
+                //Inv_GetInvoiceDetailsByFilters
+                using (SqlConnection con = new SqlConnection(conStr))
+                {
+                    SqlCommand cmd = new SqlCommand("Inv_GetInvoiceDetailsByFilters", con);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@invoiceNo",invoiceNo);
+                    cmd.Parameters.AddWithValue("@UserId",userId);
+                    cmd.Parameters.AddWithValue("@paymentMode",paymentMode);
+                    cmd.Parameters.AddWithValue("@invoiceDate",invoiceDate);
+                    cmd.Parameters.AddWithValue("@customerMobileno",customerMobileNo);
+                    SqlDataAdapter da = new SqlDataAdapter(cmd);
+                    da.Fill(dtOrders);
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return dtOrders;
+        }
+
         public DataTable getOrderDetails(int invoiceNumber)
         {
             DataTable dtOrderDetails = new DataTable();
